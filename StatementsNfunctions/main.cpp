@@ -10,7 +10,6 @@ int Main(int argc, char **argv) { //1st function
     return 0;
 }
 
-
 int addNumbers(int first_param, int second_param){  //2nd Function Taking parameters and calculating sum 
 
     int result = first_param + second_param;
