@@ -52,5 +52,6 @@ void str_decyph(string& encrypt_str, int rotat_dist) {
 1. Mistake in the for condition for the decypher code - messed up the logical operators
 2. Type mismatch btw char and string for function call to decyph 
 3. i >= 0 was a wrong condition to loop over the vector backwards idk why??
-4. Forgot to consider the domain of the program - for eg. rotating alphabets on the edge - line 35-39
+4. Forgot to consider the domain of the program - for eg. rotating alphabets on the edge - line 35-39 */
+
 
